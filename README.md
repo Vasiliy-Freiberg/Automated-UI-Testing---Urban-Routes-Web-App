@@ -31,7 +31,7 @@ Also, for simplifying code the JavaScript modules and import functions were used
 JS was used for writing asynchronous tests. 
 
 
-# instructions on how to run the tests
+# Instructions on how to run the tests
 All tests are placed in the createAnOrder.e2e.js file and are executed one by one as the test is runnig.
 Command to execute - 'npm run wdio'.
 Each test goes as a part of global suite of tests 'Create an order'.
